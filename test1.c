@@ -1,3 +1,4 @@
+//Code to check if elements are sorted or not of an array using for loop and flow control statement.
 #include<stdio.h>
 int main()
 {
