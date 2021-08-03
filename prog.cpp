@@ -1,3 +1,5 @@
+//Updating Value of a varieble using pointer,function and dereference operator.
+
 #include<stdio.h>
 int fun(int a)
 {
