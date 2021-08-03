@@ -14,3 +14,20 @@ int main()
   printf("%d",fun(a));
   return 0;
 }
+
+//or
+
+#include<stdio.h>
+int fun(int *ptr)
+{
+  *ptr=*ptr+100; 
+}
+int main()
+{
+  int a=10;
+  printf("The value of a is : %d\n",a);
+  fun(&a);
+  printf("%d",a);
+  return 0;
+}
+
