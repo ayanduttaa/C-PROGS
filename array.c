@@ -1,3 +1,4 @@
+//C code for Creating an array with user given size and elements. Doing several operations on the array.Inserting elements, Updating element,deleting element, Chcking sorted or not, Searching element.
 #include<stdio.h>
 
 int main()
